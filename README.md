@@ -1,5 +1,7 @@
 # Diesel Luxury Watch Landing Page
 
+> **Live Preview:** [hasan-hadba.github.io/diesel-modern-watch-landing/](https://hasan-hadba.github.io/diesel-modern-watch-landing/)
+
 A minimalist and modern landing page showcasing the "Diesel Watches" collection. This project focuses on high-end product presentation through interactive animations, bold typography, and a creative split-screen layout.
 
 ## 🛠 Technologies Used
